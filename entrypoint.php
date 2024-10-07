@@ -2,7 +2,7 @@
 
 // Enable error reporting for debugging
 ///
-//  CHECKKKKKad       fgdsagf
+//  CHECKKKKKad       fgdsagf srh
 //
 ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
